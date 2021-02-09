@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtClaave">Clave</string>
+    <string name="txtGuardar">Guardar las credenciales</string>
+    <string name="btnAcceder">ACCEDER</string>
+    <string name="btnBorrar">BORRAR</string>
+    <string name="txtBienvenido">¡¡¡Bienvenido!!!</string>
+    <string name="aviso">Inserte los datos de Usuario y Clave para continuar</string>
+</resources>
