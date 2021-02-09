@@ -33,15 +33,4 @@
         app:layout_constraintTop_toBottomOf="@+id/txtBienvenido"
         app:layout_constraintVertical_bias="0.235" />
 
-    <TextView
-        android:id="@+id/txtNombre"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/btnBorrar"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtBienvenido" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
